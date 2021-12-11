@@ -88,7 +88,7 @@ body {
 /* Responsive Handphone Start */
     /* Responsive Login Start */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 947px) {
     .header {
         height: 70px;
     }
